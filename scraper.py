@@ -31,6 +31,9 @@ def scrap_article(url):
         "class" : "read__content"
     })[0]
     para = content.find_all("p")
+    for i, p in enumerate(para):
+        if(p.find('strong') != None):
+            para[i].find('strong').extract()
 
     return list(map(lambda x: x.text,para))
 
@@ -51,12 +54,13 @@ if __name__ == '__main__':
                     sentence = sentence.replace(u'\xa0','')
                     sentence = sentence.replace(u'\n','')
                     sentence = remove_punctuation(sentence)
-                    sentence = re.sub(r'[^\w\s]', '', sentence)
+                    sentence = re.sub(r'[^\w\s]', ' ', sentence)
                     sentence = sentence.replace('  ',' ')
+                    sentence = sentence.strip()
                     sentences.append(sentence)
             
             art = Article(article.attrs["href"], sentences)
             corpus.append(art)
-            print(index, ": ", art)
+            # print(index, ": ", art)
 
     save_to_file(corpus)
