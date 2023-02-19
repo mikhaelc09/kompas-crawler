@@ -1,7 +1,8 @@
 from iocorpus import read_corpus
 from nltk.tokenize import word_tokenize
 
-arts = read_corpus('kompas_190223025615.txt')
+# arts = read_corpus('kompas_190223025615.txt')
+arts = read_corpus('temp.txt')
 
 class Word:
     def __init__(self, word):
@@ -57,6 +58,7 @@ def get_words_freq(words):
     
     # for i in word_freq:
     #     i.print()
+    return word_freq
 
 #get freq of a word
 def get_word_freq(word, word_freq):
@@ -97,6 +99,7 @@ def get_ngrams_freq(bigrams):
         
     # for i in bigram_freq:
     #     i.print()
+    return bigram_freq
     
 #get freq of a bigram
 def get_bigram_freq(word1, word2, bigram_freq):
@@ -112,14 +115,17 @@ def calculate_all_probability(word_freq):
     print('Calculating probabilities...')
     for i in word_freq:
         for j in word_freq:
-            if i!=j:
-                f_bigram = get_bigram_freq(i, j, bigram_freq)
+            if i.word!=j.word:
+                f_bigram = get_bigram_freq(i.word, j.word, bigram_freq)
                 
-                prob = (f_bigram / i.freq) + 1
+                prob = (f_bigram / i.freq) + 1 #laplace smoothing
+                # print(prob)
                 i.addProbability(Probability(j,prob))
+    
+    return word_freq
                 
 #get probability of 2 words
-def get_probability(word1, word2):
+def get_probability(word1, word2, word_freq):
     if word1 in word_freq and word2 in word_freq:
         for i in word_freq:
             if i.word==word1:
@@ -140,21 +146,26 @@ def get_next_word(sentence, word_freq):
     #calculate probability from given sentence
     while i<len(tokens):
         if i==0:
-            prob = get_probability("<s>", tokens[i])
+            prob = get_probability("<s>", tokens[i], word_freq)
         else:
-            prob = get_probability(tokens[i-1], tokens[i])
-            
+            prob = get_probability(tokens[i-1], tokens[i], word_freq)
+         
         totalProb *= prob
+        print(prob)
+        i += 1
     
     #calculate probability of possible next word
     nextWord = ""
     tempProb = 1
     
     for i in word_freq:
-        prob1 = get_probability(tokens[len(tokens)-1], i.word)
-        prob2 = get_probability(i, "</s>")
-        if tempProb < prob1*prob2:
-            tempProb = prob1*prob2
+        prob1 = get_probability(tokens[len(tokens)-1], i.word, word_freq)
+        # prob2 = get_probability(i, "</s>")
+        # if tempProb < prob1*prob2:
+        #     tempProb = prob1*prob2
+        #     nextWord = i.word
+        print(prob1)
+        if tempProb < prob1:
             nextWord = i.word
     
     totalProb *= tempProb
@@ -177,10 +188,10 @@ for i in arts:
         bigram = generate_ngram(words, 2)
         bigrams += bigram
 
-get_words_freq(all_words)
-get_ngrams_freq(bigrams)
-calculate_all_probability(word_freq)
+word_freq = get_words_freq(all_words)
+bigram_freq = get_ngrams_freq(bigrams)
+word_freq = calculate_all_probability(word_freq)
 
 #ask for input, return next word of that sentence
 sentence = input("Enter a sentence: ")
-get_next_word(sentence)
+get_next_word(sentence, word_freq)

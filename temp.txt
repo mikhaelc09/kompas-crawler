@@ -1,0 +1,294 @@
+<corpus>
+	<doc id:0 url=https://sorotpolitik.kompas.com/pdiperjuangan-untuk-indonesia-raya/read/2023/02/18/20120001/terima-aspirasi-pendamping-pkh-soal-status-kerja-pdip-jatim-sudah-kami?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Pengurus Dewan Pengurus Daerah DPD Partai Demokrasi Indonesia PDI Perjuangan Jawa Timur Jatim menerima aspirasi dari ratusan koordinator wilayah dan kabupatenkota pendamping Program Keluarga Harapan PKH di Ballroom Hotel Wyndham Surabaya Jumat 1722023</s>
+		<s>Aspirasi yang disampaikan adalah terkait kejelasan status kerja yang selama ini belum didapatkan dari pemerintah</s>
+		<s>Setelah aspirasi diterima Pelaksana Tugas Plt Ketua DPD PDI Perjuangan Jatim Said Abdullah mengatakan bahwa pihaknya telah berkomunikasi dengan Menteri Sosial Mensos Tri Rismaharini dan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Menpan RB Abdullah Anwar Anas</s>
+		<s>Kami telah berkomunikasi dengan Bu Risma dan Mas Anas</s>
+		<s>Usulan kawankawan pendamping PKH bisa menjadi pegawai pemerintah dengan perjanjian kerja PPPK telah diusulkan dan tinggal menunggu keputusan Rapat Kabinet Terbatas ujar Said dalam keterangan pers yang diterima Kompascom Sabtu 1822023</s>
+		<s>Said pun meminta para pendamping PKH menunggu dan berharap pihaknya dapat membawa kabar baik</s>
+		<s>Said yang juga Ketua Badan Anggaran DPR itu turut menegaskan mengentaskan kemiskinan adalah bagian dari tugas ideologis PDI Perjuangan</s>
+		<s>Ia menjelaskan pada 2023 lebih dari Rp 400 triliun dari Anggaran Pendapatan dan Belanja Daerah APBN telah dialokasikan untuk berbagai program pengentasan kemiskinan</s>
+		<s>Bahkan kata Said lebih dari Rp 600 triliun belanja APBN turut dialokasikan untuk meningkatkan akses dan kualitas pendidikan rakyat</s>
+		<s>Harusnya hal tersebut bisa memperbaiki nasib rakyat terutama dari kalangan rumah tangga miskin terang politisi senior PDIP itu</s>
+		<s>Said melanjutkan pada Sabtu DPD PDI Perjuangan Jatim melanjutkan bahasan tersebut dengan melaksanakan rapat koordinasi rakor bersama seluruh jajaran struktural partai di tingkat kabupaten dan kota</s>
+		<s>Dalm pertemuan itu anggota Fraksi PDI Perjuangan di DPRD Jatim dan seluruh kabupatenkota seJatim para kepala daerah dan wakil kepala daerah dari PDI Perjuangan seJatim juga hadir</s>
+		<s>Kami konsolidasikan aspirasi kawan kawan dengan mereka ujar pria asal Sumenep itu</s>
+		<s>Sebelumnya Koordinator Wilayah Korwil Pendamping PKH Jatim Agus Sudradjat mengatakan para pendamping PKH telah bekerja sejak program PKH dijalankan pada 2007 hingga sekarang</s>
+		<s>Artinya program ini telah berjalan lebih dari 17 tahun</s>
+		<s>Sayangnya status kerja pendamping PKH masih belum berstatus sebagai PPPK ujarnya</s>
+		<s>Agus menilai ketidakpastian status kerja para pendamping PKH tersebut membuatnya dapat menerima risiko putus kontrak tahunan</s>
+		<s>Ancaman pengangguran adalah mimpi buruk bagi para pendamping PKH ujar Agus</s>
+		<s>Dia menyebutkan selama ini pihaknya mewakafkan waktu untuk total mengurus pekerjaan yang memang dianggap mulia tersebut</s>
+		<s>Kami tidak menyediakan waktu untuk bekerja yang lain</s>
+		<s>Kami konsentrasi penuh sehingga kalau kontrak tidak diperpanjang tentu akan menyulitkan masa depan kawankawan imbuhnya</s>
+		<s>Pendamping PKH dari Korwil 4 Jatim Agus Suryo Pramono menambahkan saat bekerja di lapangan para pendamping PKH sering kali dipersoalkan secara hukum</s>
+		<s>Padahal mereka bukan vendor pengadaan barang bantuan PKH</s>
+		<s>Menurutnya jika nilai bantuan dianggap tidak mencerminkan nilai barang atau tidak setara dari nominal yang semestinya sering kali mereka menjadi sasaran ancaman Lembaga Swadaya Masyarakat LSM</s>
+		<s>Sering kali kami diancam dilaporkan ke polisi</s>
+		<s>Bagi rekanrekan pendamping PKH yang tidak mengetahui selukbeluk hukum ancaman ini tentu menggelisahkan ujarnya</s>
+		<s>Padahal kata Agus konsentrasi kerja pendamping PKH hanya memastikan program tersebut berjalan dengan baik dan diterima oleh para penerima manfaat</s>
+		<s>Karenanya para pendamping PKH seJatim juga berharap pemerintah daerah baik kabupaten maupun kota dapat memberikan perhatian dan dukungan terhadap kinerja mereka</s>
+		<s>Sebagai informasi penyampaian aspirasi tersebut diakhiri dengan kesepakatan untuk membangun komunikasi lebih lanjut antara kedua pihak agar pelaksanaan PKH punya manfaat maksimal khususnya di Jatim</s>
+		<s>Kedua pihak juga bersepakat untuk bersinergi dengan seluruh kepala daerah dan wakil kepala daerah dari PDI Perjuangan di Jatim dan seluruh anggota Fraksi PDI Perjuangan DPRD seJatim</s>
+		<s>Turut hadir dalam kesempatan itu Pelaksana Tugas Harian Plh Ketua DPD PDI Perjuangan Jatim Budi Sulistyono Sekretaris DPD PDI Perjuangan Jatim Sri Untari serta seluruh pengurus DPD PDI Perjuangan Jatim</s>
+		<s>Hadir pula Ketua DPRD Jatim Kusnadi yang sejak awal memiliki perhatian terhadap para pendamping PKH di Jatim</s>
+		<s>Pengurus Dewan Pengurus Daerah DPD Partai Demokrasi Indonesia PDI Perjuangan Jawa Timur Jatim menerima aspirasi dari ratusan koordinator wilayah dan kabupatenkota pendamping Program Keluarga Harapan PKH di Ballroom Hotel Wyndham Surabaya Jumat 1722023</s>
+		<s>Aspirasi yang disampaikan adalah terkait kejelasan status kerja yang selama ini belum didapatkan dari pemerintah</s>
+		<s>Setelah aspirasi diterima Pelaksana Tugas Plt Ketua DPD PDI Perjuangan Jatim Said Abdullah mengatakan bahwa pihaknya telah berkomunikasi dengan Menteri Sosial Mensos Tri Rismaharini dan Menteri Pendayagunaan Aparatur Sipil Negara dan Reformasi Birokrasi Menpan RB Abdullah Anwar Anas</s>
+		<s>Kami telah berkomunikasi dengan Bu Risma dan Mas Anas</s>
+		<s>Usulan kawankawan pendamping PKH bisa menjadi pegawai pemerintah dengan perjanjian kerja PPPK telah diusulkan dan tinggal menunggu keputusan Rapat Kabinet Terbatas ujar Said dalam keterangan pers yang diterima Kompascom Sabtu 1822023</s>
+		<s>Said pun meminta para pendamping PKH menunggu dan berharap pihaknya dapat membawa kabar baik</s>
+		<s>Said yang juga Ketua Badan Anggaran DPR itu turut menegaskan mengentaskan kemiskinan adalah bagian dari tugas ideologis PDI Perjuangan</s>
+		<s>Ia menjelaskan pada 2023 lebih dari Rp 400 triliun dari Anggaran Pendapatan dan Belanja Daerah APBN telah dialokasikan untuk berbagai program pengentasan kemiskinan</s>
+		<s>Bahkan kata Said lebih dari Rp 600 triliun belanja APBN turut dialokasikan untuk meningkatkan akses dan kualitas pendidikan rakyat</s>
+		<s>Harusnya hal tersebut bisa memperbaiki nasib rakyat terutama dari kalangan rumah tangga miskin terang politisi senior PDIP itu</s>
+		<s>Said melanjutkan pada Sabtu DPD PDI Perjuangan Jatim melanjutkan bahasan tersebut dengan melaksanakan rapat koordinasi rakor bersama seluruh jajaran struktural partai di tingkat kabupaten dan kota</s>
+		<s>Dalm pertemuan itu anggota Fraksi PDI Perjuangan di DPRD Jatim dan seluruh kabupatenkota seJatim para kepala daerah dan wakil kepala daerah dari PDI Perjuangan seJatim juga hadir</s>
+		<s>Kami konsolidasikan aspirasi kawan kawan dengan mereka ujar pria asal Sumenep itu</s>
+		<s>Sebelumnya Koordinator Wilayah Korwil Pendamping PKH Jatim Agus Sudradjat mengatakan para pendamping PKH telah bekerja sejak program PKH dijalankan pada 2007 hingga sekarang</s>
+		<s>Artinya program ini telah berjalan lebih dari 17 tahun</s>
+		<s>Sayangnya status kerja pendamping PKH masih belum berstatus sebagai PPPK ujarnya</s>
+		<s>Agus menilai ketidakpastian status kerja para pendamping PKH tersebut membuatnya dapat menerima risiko putus kontrak tahunan</s>
+		<s>Ancaman pengangguran adalah mimpi buruk bagi para pendamping PKH ujar Agus</s>
+		<s>Dia menyebutkan selama ini pihaknya mewakafkan waktu untuk total mengurus pekerjaan yang memang dianggap mulia tersebut</s>
+		<s>Kami tidak menyediakan waktu untuk bekerja yang lain</s>
+		<s>Kami konsentrasi penuh sehingga kalau kontrak tidak diperpanjang tentu akan menyulitkan masa depan kawankawan imbuhnya</s>
+		<s>Pendamping PKH dari Korwil 4 Jatim Agus Suryo Pramono menambahkan saat bekerja di lapangan para pendamping PKH sering kali dipersoalkan secara hukum</s>
+		<s>Padahal mereka bukan vendor pengadaan barang bantuan PKH</s>
+		<s>Menurutnya jika nilai bantuan dianggap tidak mencerminkan nilai barang atau tidak setara dari nominal yang semestinya sering kali mereka menjadi sasaran ancaman Lembaga Swadaya Masyarakat LSM</s>
+		<s>Sering kali kami diancam dilaporkan ke polisi</s>
+		<s>Bagi rekanrekan pendamping PKH yang tidak mengetahui selukbeluk hukum ancaman ini tentu menggelisahkan ujarnya</s>
+		<s>Padahal kata Agus konsentrasi kerja pendamping PKH hanya memastikan program tersebut berjalan dengan baik dan diterima oleh para penerima manfaat</s>
+		<s>Karenanya para pendamping PKH seJatim juga berharap pemerintah daerah baik kabupaten maupun kota dapat memberikan perhatian dan dukungan terhadap kinerja mereka</s>
+		<s>Sebagai informasi penyampaian aspirasi tersebut diakhiri dengan kesepakatan untuk membangun komunikasi lebih lanjut antara kedua pihak agar pelaksanaan PKH punya manfaat maksimal khususnya di Jatim</s>
+		<s>Kedua pihak juga bersepakat untuk bersinergi dengan seluruh kepala daerah dan wakil kepala daerah dari PDI Perjuangan di Jatim dan seluruh anggota Fraksi PDI Perjuangan DPRD seJatim</s>
+		<s>Turut hadir dalam kesempatan itu Pelaksana Tugas Harian Plh Ketua DPD PDI Perjuangan Jatim Budi Sulistyono Sekretaris DPD PDI Perjuangan Jatim Sri Untari serta seluruh pengurus DPD PDI Perjuangan Jatim</s>
+		<s>Hadir pula Ketua DPRD Jatim Kusnadi yang sejak awal memiliki perhatian terhadap para pendamping PKH di Jatim</s>
+	</doc>
+	<doc id:1 url=https://sorotpolitik.kompas.com/pdiperjuangan-untuk-indonesia-raya/read/2023/02/18/18443111/rapatkan-barisan-dpd-jatim-said-abdullah-harap-pdip-hattrick-pada-pemilu?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Pelaksana Tugas Plt Ketua Dewan Pimpinan Daerah DPD PDI Perjuangan Jawa Timur Jatim MH Said Abdullah melaksanakan tugasnya untuk merapatkan barisan seluruh potensi dan kekuatan partai dengan mengadakan rapat koordinasi rakor bagi seluruh pengurus DPD PDIP Jatim di Surabaya Sabtu 1822023 Agenda pemilihan umum Pemilu digelar kurang dari setahun lagi</s>
+		<s>Seluruh jajaran partai di tingkat Dewan Pimpinan Cabang DPC dan DPD harus segera menyelesaikan proses penyaringan bakal calon legislatif untuk Dewan Perwakilan Rakyat Daerah DPRD Kabupaten Kota dan Provinsi seJatim ujar Said dalam siaran pers yang diterima Kompascom SabtuIa mengatakan bahwa DPD PDIP Jatim menginginkan semua kader memiliki bekal calon anggota legislatif sebagai petarung di lapanganSaid mengatakan rakor tersebut diadakan untuk mengoptimlakan pergerakan politik antara DPC DPD dan para kepala serta wakil kepala daerah PDIP seJatim mengenai strategi pemenangan partai</s>
+		<s>Acara ini juga digelar untuk memastikan proses penyaringan bakal calon legislatif caleg dari PDIP sesuai dengan Ketentuan Peratuan Partai Demokrasi Indonesia Perjuangan No 25 A Tahun 2018 kata Said</s>
+		<s>Sebagai informasi Rakor DPD PDIP Jatim yang dilaksanakan sehari penuh itu memetakan peta dapil serta menyusun target peningkatan perolehan kursi DPRD dan DPR di Jatim sesuai target partai Kami ingin perolehan suara PDIP Jawa Timur pada Pemilu 2024 nanti mencapai 35 persen dari jumlah suara sah kata SaidIa juga mengatakan bahwa pihaknya menargetkan PDIP hattrick pada pemilu 2024</s>
+		<s>Karenanya ia meminta doa dan dukungan dari para anggota yang hadirPada kesempatan sama Wakil Ketua Bidang Pemenangan Pemilu DPD PDIP Jatim Deni Wicaksono mengatakan bahwa rakor tersebut digelar untuk membagi tugas kepada para petugas partai di seluruh Jatim</s>
+		<s>Menurutnya petugas partai harus mengetahui beragam tugas mulai dari serangan darat serangan udara pasukan gorong gorong hingga rincian tugasnya secara mendetil dan targettargetnya</s>
+		<s>Ia pun meminta seluruh anggota DPRD kabupaten kota dan provinsi mampu mengeskalasi kegiatan hingga setahun ke depan Kami instruksikan selain melakukan berbagai kegiatan yang menjadi citra diri partai seperti senam sicita seluruh anggota PDIP juga dapat mengaktivasi kegiatan sosial keagamaan selama Ramadhan memberikan bantuan untuk meringankan beban rakyat dan kegiatan lain untuk mendekatkan partai ke dalam hati rakyat ujar DeniSebagai informasi rakor tersebut dihadiri oleh Pelaksana Harian Plh DPD PDIP Jatim Ir Budi Sulistyono Sekretaris DPD PDIP Jatim Dra Sri Untari Ketua DPRD Jatim Kusnadi serta anggota DPR dari PDIP yaitu Puti Guntur Soekarnoputri Indah Kurnia Arteria Dahlan Andreas Susetyo Sony Tri Darmaparamita dan Abidin Fikri</s>
+		<s>Pelaksana Tugas Plt Ketua Dewan Pimpinan Daerah DPD PDI Perjuangan Jawa Timur Jatim MH Said Abdullah melaksanakan tugasnya untuk merapatkan barisan seluruh potensi dan kekuatan partai dengan mengadakan rapat koordinasi rakor bagi seluruh pengurus DPD PDIP Jatim di Surabaya Sabtu 1822023</s>
+		<s>Agenda pemilihan umum Pemilu digelar kurang dari setahun lagi</s>
+		<s>Seluruh jajaran partai di tingkat Dewan Pimpinan Cabang DPC dan DPD harus segera menyelesaikan proses penyaringan bakal calon legislatif untuk Dewan Perwakilan Rakyat Daerah DPRD Kabupaten Kota dan Provinsi seJatim ujar Said dalam siaran pers yang diterima Kompascom Sabtu</s>
+		<s>Ia mengatakan bahwa DPD PDIP Jatim menginginkan semua kader memiliki bekal calon anggota legislatif sebagai petarung di lapangan</s>
+		<s>Said mengatakan rakor tersebut diadakan untuk mengoptimlakan pergerakan politik antara DPC DPD dan para kepala serta wakil kepala daerah PDIP seJatim mengenai strategi pemenangan partai</s>
+		<s>Acara ini juga digelar untuk memastikan proses penyaringan bakal calon legislatif caleg dari PDIP sesuai dengan Ketentuan Peratuan Partai Demokrasi Indonesia Perjuangan No 25 A Tahun 2018 kata Said</s>
+		<s>Sebagai informasi Rakor DPD PDIP Jatim yang dilaksanakan sehari penuh itu memetakan peta dapil serta menyusun target peningkatan perolehan kursi DPRD dan DPR di Jatim sesuai target partai</s>
+		<s>Kami ingin perolehan suara PDIP Jawa Timur pada Pemilu 2024 nanti mencapai 35 persen dari jumlah suara sah kata Said</s>
+		<s>Ia juga mengatakan bahwa pihaknya menargetkan PDIP hattrick pada pemilu 2024</s>
+		<s>Karenanya ia meminta doa dan dukungan dari para anggota yang hadir</s>
+		<s>Pada kesempatan sama Wakil Ketua Bidang Pemenangan Pemilu DPD PDIP Jatim Deni Wicaksono mengatakan bahwa rakor tersebut digelar untuk membagi tugas kepada para petugas partai di seluruh Jatim</s>
+		<s>Menurutnya petugas partai harus mengetahui beragam tugas mulai dari serangan darat serangan udara pasukan gorong gorong hingga rincian tugasnya secara mendetil dan targettargetnya</s>
+		<s>Ia pun meminta seluruh anggota DPRD kabupaten kota dan provinsi mampu mengeskalasi kegiatan hingga setahun ke depan</s>
+		<s>Kami instruksikan selain melakukan berbagai kegiatan yang menjadi citra diri partai seperti senam sicita seluruh anggota PDIP juga dapat mengaktivasi kegiatan sosial keagamaan selama Ramadhan memberikan bantuan untuk meringankan beban rakyat dan kegiatan lain untuk mendekatkan partai ke dalam hati rakyat ujar Deni</s>
+		<s>Sebagai informasi rakor tersebut dihadiri oleh Pelaksana Harian Plh DPD PDIP Jatim Ir Budi Sulistyono Sekretaris DPD PDIP Jatim Dra Sri Untari Ketua DPRD Jatim Kusnadi serta anggota DPR dari PDIP yaitu Puti Guntur Soekarnoputri Indah Kurnia Arteria Dahlan Andreas Susetyo Sony Tri Darmaparamita dan Abidin Fikri</s>
+	</doc>
+	<doc id:2 url=https://sorotpolitik.kompas.com/pdiperjuangan-untuk-indonesia-raya/read/2023/02/18/14262871/said-abdullah-janji-bawa-aspirasi-perubahan-jabatan-kades-menjadi-9-tahun-ke?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Pelaksana Tugas Plt Ketua Dewan Pimpinan Daerah DPD Partai Demokrasi Indonesia PDI Perjuangan Said Abdullah menjanjikan untuk membawa aspirasi para kepala desa Kades seJawa Timur Jatim terhadap perubahan masa jabatan Kades dalam Program Legislasi Nasional Prolegnas Prioritas Dewan Perwakilan Rakyat DPR Republik Indonesia RI tahun 2023</s>
+		<s>Aspirasi ini akan dibahas bersamasama antara Dewan Perwakilan Rakyat DPR dan pemerintah untuk mengesahkan revisi tersebut menjadi UU pada tahun ini 2023 juga ujar Said Abdullah yang juga menjabat sebagai Ketua Badan Anggaran Banggar DPR RI</s>
+		<s>Hal itu Said Abdullah katakan usai bertemu dengan perwakilan kades seJatim yang tergabung dalam Asosiasi Kades AKD Jatim dan Perkumpulan Aparatur Pemerintah Desa Seluruh Indonesia Papdesi Jatim di Hotel Wyndam Surabaya Jumat 1722023</s>
+		<s>Dalam pertemuan tersebut Ketua AKD Jatim Munawar mengatakan bahwa para Kades seJatim meminta untuk dilakukannya revisi terbatas atas Pasal 39 UndangUndang UU Nomor 6 Tahun 2014 tentang Desa yaitu terkait masa jabatan Kades</s>
+		<s>Masa jabatan kades yang semula berjalan selama enam tahun dapat dipilih kembali sebanyak tiga kali secara berturutturut menjadi sembilan tahun dengan maksimal masa jabatan dua periode sehingga jumlah akumulasi masa jabatan Kades sebanyak 18 tahun ujar Munawar dalam keterangan yang diterima Kompascom Jumat 1722023</s>
+		<s>Munawar mengatakan aspirasi masa jabatan berubah menjadi sembilan tahun dikarenakan masa jabatan yang semula hanya berjalan selama enam tahun dinilai cukup pendek</s>
+		<s>Kondisi ini memaksa kades untuk hanya fokus pada pembangunan fisik agar terlihat kemajuan pembangunannya ujar Munawar</s>
+		<s>Apabila hal tersebut tidak dipandu oleh visi strategis yang dapat menjawab persoalan dasar lanjut Munawar maka akan berakibat pada pembangunan fisik tanpa visi dan seolaholah hanya ada pembangunan tetapi tidak ada arah dan target</s>
+		<s>Oleh karena itu situasi ini membuat Kades terpaksa untuk fokus kembali dan mengerahkan tenaganya untuk mengurus pemenangan pemilihan kades Pilkades di jabatan keduanya imbuhnya</s>
+		<s>Tak hanya itu kata dia masa jabatan enam tahun sebetulnya belum cukup untuk memulihkan harmoni sosial akibat adanya kubukubuan antarpendukung kades</s>
+		<s>Apalagi dalam waktu singkat mereka akan dihadapkan oleh Pilkades yang membuka luka lama</s>
+		<s>Dengan masa jabatan sembilan tahun kami harap bisa merukunkan kembali hubungan sosial di desa katanya</s>
+		<s>Ia mengatakan keuntungan lain dari perubahan masa jabatan sembilan tahun akan membuat pemerintah daerah dapat menghemat anggaran karena terdapat jeda dalam pelaksanaan pilkades yang lebih lama</s>
+		<s>Pada kesempatan yang sama Kades Kebonagung Lumajang Soeharto meminta agar revisi masa jabatan sembilan tahun tersebut dapat berlaku surut</s>
+		<s>Dengan memberikan perlakuan yang surut bagi kades maka para kades yang sekarang sedang dan masih menjabat bisa mendapatkan kepastian ujar Soeharto</s>
+		<s>Berupaya memberikan tambahan dana operasional kadesDi hadapan perwakilan kades seJatim Said Abdullah mengatakan dirinya akan berupaya memberikan dukungan untuk tambahan dana operasional kades di tahuntahun mendatang</s>
+		<s>Hal tersebut kata dia harus dilakukan untuk memajukan dan memakmurkan desa titik fokusnya harus dari desa juga</s>
+		<s>Apalagi angka kemiskinan tertinggi juga ada di desa</s>
+		<s>Said mengatakan adabanyak kader PDI Perjuangan yang lahir dari desa</s>
+		<s>Oleh karena itu PDI Perjuangan tidak boleh melupakan desa</s>
+		<s>Setiap petugas partai dari PDI Perjuangan harus memiliki bonding dengan para kades dan tokohtokoh masyarakat di desa katanya</s>
+		<s>Said mengaku tugas kades sesungguhnya sangat berat</s>
+		<s>Sebab mereka langsung bersentuhan dengan masyarakat desa</s>
+		<s>Semua persoalan warga desa mulai dari urusan sepele hingga berat akan ditumpahkan ke kades</s>
+		<s>Kades dianggap bisa menyelesaikan persoalanpersoalan di desa dengan kearifan desaHal seperti ini harus menjadi perhatian bagi kami agar ikut membantu meringankan tugas sosial kades tegasnya</s>
+		<s>Sementara itu Pelaksana harian Plh Ketua DPD PDI Perjuangan Jatim Budi Sulistyono mengatakan DPP PDI Perjuangan telah membentuk Tim Perumus Revisi UndangUndang Desa</s>
+		<s>Adapun tim tersebut terdiri dari Budi Sulistyono Budiman Sujatmiko mantan Anggota Komisi II DPR PDI Perjuangan yang juga inisiator dari lahirnya UndangUndang Desa serta beberapa bupati yang berasal dari PDI Perjuangan</s>
+		<s>Nantinya tim ini akan ditugaskan oleh DPP PDI Perjuangan untuk merumuskan substansi perubahan UndangUndang Desa khususnya terkait dengan revisi masa jabatan kades dan mengawalnya ke DPR RI dan pemerintah</s>
+		<s>Pelaksana Tugas Plt Ketua Dewan Pimpinan Daerah DPD Partai Demokrasi Indonesia PDI Perjuangan Said Abdullah menjanjikan untuk membawa aspirasi para kepala desa Kades seJawa Timur Jatim terhadap perubahan masa jabatan Kades dalam Program Legislasi Nasional Prolegnas Prioritas Dewan Perwakilan Rakyat DPR Republik Indonesia RI tahun 2023</s>
+		<s>Aspirasi ini akan dibahas bersamasama antara Dewan Perwakilan Rakyat DPR dan pemerintah untuk mengesahkan revisi tersebut menjadi UU pada tahun ini 2023 juga ujar Said Abdullah yang juga menjabat sebagai Ketua Badan Anggaran Banggar DPR RI</s>
+		<s>Hal itu Said Abdullah katakan usai bertemu dengan perwakilan kades seJatim yang tergabung dalam Asosiasi Kades AKD Jatim dan Perkumpulan Aparatur Pemerintah Desa Seluruh Indonesia Papdesi Jatim di Hotel Wyndam Surabaya Jumat 1722023</s>
+		<s>Dalam pertemuan tersebut Ketua AKD Jatim Munawar mengatakan bahwa para Kades seJatim meminta untuk dilakukannya revisi terbatas atas Pasal 39 UndangUndang UU Nomor 6 Tahun 2014 tentang Desa yaitu terkait masa jabatan Kades</s>
+		<s>Masa jabatan kades yang semula berjalan selama enam tahun dapat dipilih kembali sebanyak tiga kali secara berturutturut menjadi sembilan tahun dengan maksimal masa jabatan dua periode sehingga jumlah akumulasi masa jabatan Kades sebanyak 18 tahun ujar Munawar dalam keterangan yang diterima Kompascom Jumat 1722023</s>
+		<s>Munawar mengatakan aspirasi masa jabatan berubah menjadi sembilan tahun dikarenakan masa jabatan yang semula hanya berjalan selama enam tahun dinilai cukup pendek</s>
+		<s>Kondisi ini memaksa kades untuk hanya fokus pada pembangunan fisik agar terlihat kemajuan pembangunannya ujar Munawar</s>
+		<s>Apabila hal tersebut tidak dipandu oleh visi strategis yang dapat menjawab persoalan dasar lanjut Munawar maka akan berakibat pada pembangunan fisik tanpa visi dan seolaholah hanya ada pembangunan tetapi tidak ada arah dan target</s>
+		<s>Oleh karena itu situasi ini membuat Kades terpaksa untuk fokus kembali dan mengerahkan tenaganya untuk mengurus pemenangan pemilihan kades Pilkades di jabatan keduanya imbuhnya</s>
+		<s>Tak hanya itu kata dia masa jabatan enam tahun sebetulnya belum cukup untuk memulihkan harmoni sosial akibat adanya kubukubuan antarpendukung kades</s>
+		<s>Apalagi dalam waktu singkat mereka akan dihadapkan oleh Pilkades yang membuka luka lama</s>
+		<s>Dengan masa jabatan sembilan tahun kami harap bisa merukunkan kembali hubungan sosial di desa katanya</s>
+		<s>Ia mengatakan keuntungan lain dari perubahan masa jabatan sembilan tahun akan membuat pemerintah daerah dapat menghemat anggaran karena terdapat jeda dalam pelaksanaan pilkades yang lebih lama</s>
+		<s>Pada kesempatan yang sama Kades Kebonagung Lumajang Soeharto meminta agar revisi masa jabatan sembilan tahun tersebut dapat berlaku surut</s>
+		<s>Dengan memberikan perlakuan yang surut bagi kades maka para kades yang sekarang sedang dan masih menjabat bisa mendapatkan kepastian ujar Soeharto</s>
+		<s>Di hadapan perwakilan kades seJatim Said Abdullah mengatakan dirinya akan berupaya memberikan dukungan untuk tambahan dana operasional kades di tahuntahun mendatang</s>
+		<s>Hal tersebut kata dia harus dilakukan untuk memajukan dan memakmurkan desa titik fokusnya harus dari desa juga</s>
+		<s>Apalagi angka kemiskinan tertinggi juga ada di desa</s>
+		<s>Said mengatakan adabanyak kader PDI Perjuangan yang lahir dari desa</s>
+		<s>Oleh karena itu PDI Perjuangan tidak boleh melupakan desa</s>
+		<s>Setiap petugas partai dari PDI Perjuangan harus memiliki bonding dengan para kades dan tokohtokoh masyarakat di desa katanya</s>
+		<s>Said mengaku tugas kades sesungguhnya sangat berat</s>
+		<s>Sebab mereka langsung bersentuhan dengan masyarakat desa</s>
+		<s>Semua persoalan warga desa mulai dari urusan sepele hingga berat akan ditumpahkan ke kades</s>
+		<s>Kades dianggap bisa menyelesaikan persoalanpersoalan di desa dengan kearifan desaHal seperti ini harus menjadi perhatian bagi kami agar ikut membantu meringankan tugas sosial kades tegasnya</s>
+		<s>Sementara itu Pelaksana harian Plh Ketua DPD PDI Perjuangan Jatim Budi Sulistyono mengatakan DPP PDI Perjuangan telah membentuk Tim Perumus Revisi UndangUndang Desa</s>
+		<s>Adapun tim tersebut terdiri dari Budi Sulistyono Budiman Sujatmiko mantan Anggota Komisi II DPR PDI Perjuangan yang juga inisiator dari lahirnya UndangUndang Desa serta beberapa bupati yang berasal dari PDI Perjuangan</s>
+		<s>Nantinya tim ini akan ditugaskan oleh DPP PDI Perjuangan untuk merumuskan substansi perubahan UndangUndang Desa khususnya terkait dengan revisi masa jabatan kades dan mengawalnya ke DPR RI dan pemerintah</s>
+	</doc>
+	<doc id:3 url=https://sorotpolitik.kompas.com/pdiperjuangan-untuk-indonesia-raya/read/2023/02/15/21070731/ketua-banggar-dpr-said-abdullah-jelaskan-3-cara-perkuat-investasi-via-devisa?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Ketua Badan Anggaran Banggar Dewan Perwakilan Rakyat DPR Republik Indonesia RI MH Said Abdullah mengatakan kinerja ekspor negeri ini pada 2023 mendapatkan berkah karena ditopang kenaikan berbagai harga komoditas ekspor</s>
+		<s>Secara kumulatif nilai ekspor Indonesia pada Januari sampai Desember 2022 mencapai 29198 miliar dollar Amerika Serikat AS atau naik 2607 persen dibandingkan pada 2021</s>
+		<s>Moncernya kinerja ekspor meneguhkan posisi neraca perdagangan Indonesia yang surplus 33 bulan bila dihitung hingga Januari 2023 ujar pria yang sekaligus menjabat sebagai Ketua Dewan Pimpinan Pusat DPP Partai Demokrasi Indonesia Perjuangan PDIP itu dalam siaran pers Rabu 1522023</s>
+		<s>Tidak hanya itu kata dia neraca perdagangan Indonesia pada 2022 juga mencatatkan surplus tertinggi dalam sejarah yakni sebesar 5446 miliar dollar AS dan pada Januari 2023 masih surplus 387 miliar dollar AS</s>
+		<s>Said menilai surplus perdagangan internasional tersebut seharusnya menyumbang devisa yang dicatatkan Bank Indonesia BI</s>
+		<s>Posisi cadangan devisa cadev pada Desember 2022 mencapai 1372 miliar dollar AS</s>
+		<s>Bila dibandingkan pada Januari 2022 cadev sedikit meningkat 22 miliar dollar AS ke posisi 1394 miliar dollar AS</s>
+		<s>Merujuk data cadev dan surplus neraca perdagangan Said melihat posisi cadev tampak lebih rendah dengan yang didapat dari neraca perdagangan</s>
+		<s>Padahal kalau kita tambahkan besaran penarikan pembiayaan baik dari surat berharga negara SBN maupun pinjaman luar negeri harusnya posisi cadev lebih lebih besar dari nilai surplus neraca perdagangan ujarnya</s>
+		<s>Said menyebutkan situasi itu menggambarkan surplus neraca perdagangan tidak menjelma menjadi kue ekonomi yang nyata di dalam negeri</s>
+		<s>Kita alami keadaan seperti ini berulang kali imbuhnya</s>
+		<s>Padahal pemerintah sejak 10 Januari 2019 telah memberlakukan Peraturan Pemerintah PP Nomor 1 Tahun 2019 tentang Devisa Hasil Ekspor DHE dari Kegiatan Pengusahaan Pengelolaan danatau Pengolahan Sumber Daya Alam SDA</s>
+		<s>BI juga telah menyempurnakan Peraturan BI sebelumnya tentang DHE melalui PBI Nomor 2418PBI2022 tentang DHE dan Devisa Pembayaran Impor</s>
+		<s>Kedua peraturan di atas mewajibkan pelaku ekspor SDA yang menerima DHE untuk menempatkan dananya ke rekening khusus reksus paling lambat akhir bulan ketiga setelah bulan pendaftaran pemberitahuan pabean ekspor</s>
+		<s>Para eksportir juga diwajibkan memindahkan escrow account jika terlanjur membuat escrow account di luar negeri dengan tenggat waktu paling lama 90 hari sejak 10 Januari 2019</s>
+		<s>Said menilai kedua peraturan tersebut belum berjalan efektif</s>
+		<s>Dia pun memaparkan tiga hal penting yang perlu dicermati pemerintah</s>
+		<s>Pertama pengaturan terkait DHE SDA tidak cukup hanya dicatatkan</s>
+		<s>Penggunaannya perlu diawasi untuk kebutuhan transaksi perdagangan internasional</s>
+		<s>Apalagi kata dia BI menilai hal itu tidak dikategorikan sebagai dana pihak ketiga DPK yang menjadi acuan penghitung kewajiban bank dalam memenuhi giro wajib minimum GWM dan lainnya</s>
+		<s>Jika pengaturannya hanya seperti ini maka ekonomi dalam negeri tidak mendapatkan manfaat optimal atas penempatan DHE di perbankan nasional selain penerimaan perpajakan atas bunga DHE di reksus ujarnya</s>
+		<s>Said mengimbau BI tidak meletakkan DHE SDA sebagai lahan parkir istimewa yang tidak memberi manfaat banyak bagi keuangan domestik</s>
+		<s>Hal ini dilakukan agar DHE SDA mempunyai manfaat finansial dan tanggung jawab perbankan lebih mengikat</s>
+		<s>Sebaiknya DHE SDA yang berada di reksus dihitung sebagai acuan untuk menilai GWM dan rasio intermediasi prudensial dari bank penerima katanya</s>
+		<s>Kedua pembayaran yang diterima eksportir dalam bentuk DHE seharusnya dicatatkan sebagai pendapatan usaha atau utang usaha jika mendapatkan pinjaman luar negeri oleh perusahaan eksportir</s>
+		<s>Meskipun tidak semua setidaknya ada peluang besar bagi pemerintah dan BI untuk mendorong DHE SDA menjadi alternatif sumber investasi dalam negeri terutama terhadap sektorsektor prioritas yang menjadi perhatian pemerintah terangnya</s>
+		<s>Ia menyebutkan jika pemerintah bisa memberikan penawaran yang menarik khususnya peluang investasi baru yang menjanjikan imbal hasil sesuai pemilik DHE SDA tentunya akan tertarik untuk terlibat dalam penawaran</s>
+		<s>Oleh sebab itu pemerintah sebaiknya membuka menu investasi yang menarik buat mereka seperti halnya pemerintah membuat penawaran pada skema repatriasi modal saat Tax Amnesty beberapa waktu lalu ungkapnya</s>
+		<s>Ketiga pemerintah ke depan juga perlu mengatur lebih lanjut DHE nonSDA seperti halnya pemerintah mengatur DHE SDA</s>
+		<s>Memang benar hasil DHE nonSDA tidak sebesar SDA</s>
+		<s>Ke depan bisa jadi hasil DHE nonSDA ini bisa melampaui DHE dari SDA mengingat tidak semua hasil SDA bisa diperbarui sebutnya</s>
+		<s>Pada tujuh tahun terakhir remitansi tenaga kerja Indonesia TKI per tahun mencapai minimal 869 miliar dollar AS</s>
+		<s>Capaian tertinggi kiriman remitansi TKI pada 2019 yakni mencapai 1144 miliar dollar AS atau lebih dari Rp 160 triliun</s>
+		<s>Devisa yang dihasilkan TKI akan semakin besar sumbangsihnya bila TKI bisa merambah ke sektorsektor yang skillfull dan high tech</s>
+		<s>Sektor ini perlu pikirkan oleh pemerintah ujarnya</s>
+		<s>Said mengatakan banyak devisa dari TKI selama ini tertelan untuk kebutuhan konsumsi</s>
+		<s>Untuk itu pemerintah perlu mengorkestrasi melalui berbagai perkumpulan TKI</s>
+		<s>Perkumpulan tersebut diharapkan masuk melakukan investasi pada sektorsektor produktif yang menjanjikan dengan imbal hasil yang logis legal dan berkelanjutan</s>
+		<s>Langkah ini diharapkan menguntungkan semua pihak</s>
+		<s>Selain TKI dunia digital dan sektor kreatif akan menjadi prospek masa depan devisa Indonesia ungkapnya</s>
+		<s>Menurutnya meski bukan yang terdepan sektor jasa teknologi informasi dalam bentuk web design animasi hingga desain grafis dari Indonesia banyak diminati oleh perusahaanperusahaan internasional</s>
+		<s>Kekayaan kreatif kita juga belum optimal digarap untuk menghasilkan devisa</s>
+		<s>Tumpuan kita selama ini masih pada sektor pariwisata jelasnya</s>
+		<s>Padahal kata Said kekayaan seni arsitektural serta intelektual Indonesia sangat menjanjikan dan berpotensi menghasilkan banyak devisa</s>
+		<s>Ketua Badan Anggaran Banggar Dewan Perwakilan Rakyat DPR Republik Indonesia RI MH Said Abdullah mengatakan kinerja ekspor negeri ini pada 2023 mendapatkan berkah karena ditopang kenaikan berbagai harga komoditas ekspor</s>
+		<s>Secara kumulatif nilai ekspor Indonesia pada Januari sampai Desember 2022 mencapai 29198 miliar dollar Amerika Serikat AS atau naik 2607 persen dibandingkan pada 2021</s>
+		<s>Moncernya kinerja ekspor meneguhkan posisi neraca perdagangan Indonesia yang surplus 33 bulan bila dihitung hingga Januari 2023 ujar pria yang sekaligus menjabat sebagai Ketua Dewan Pimpinan Pusat DPP Partai Demokrasi Indonesia Perjuangan PDIP itu dalam siaran pers Rabu 1522023</s>
+		<s>Tidak hanya itu kata dia neraca perdagangan Indonesia pada 2022 juga mencatatkan surplus tertinggi dalam sejarah yakni sebesar 5446 miliar dollar AS dan pada Januari 2023 masih surplus 387 miliar dollar AS</s>
+		<s>Said menilai surplus perdagangan internasional tersebut seharusnya menyumbang devisa yang dicatatkan Bank Indonesia BI</s>
+		<s>Posisi cadangan devisa cadev pada Desember 2022 mencapai 1372 miliar dollar AS</s>
+		<s>Bila dibandingkan pada Januari 2022 cadev sedikit meningkat 22 miliar dollar AS ke posisi 1394 miliar dollar AS</s>
+		<s>Merujuk data cadev dan surplus neraca perdagangan Said melihat posisi cadev tampak lebih rendah dengan yang didapat dari neraca perdagangan</s>
+		<s>Padahal kalau kita tambahkan besaran penarikan pembiayaan baik dari surat berharga negara SBN maupun pinjaman luar negeri harusnya posisi cadev lebih lebih besar dari nilai surplus neraca perdagangan ujarnya</s>
+		<s>Said menyebutkan situasi itu menggambarkan surplus neraca perdagangan tidak menjelma menjadi kue ekonomi yang nyata di dalam negeri</s>
+		<s>Kita alami keadaan seperti ini berulang kali imbuhnya</s>
+		<s>Padahal pemerintah sejak 10 Januari 2019 telah memberlakukan Peraturan Pemerintah PP Nomor 1 Tahun 2019 tentang Devisa Hasil Ekspor DHE dari Kegiatan Pengusahaan Pengelolaan danatau Pengolahan Sumber Daya Alam SDA</s>
+		<s>BI juga telah menyempurnakan Peraturan BI sebelumnya tentang DHE melalui PBI Nomor 2418PBI2022 tentang DHE dan Devisa Pembayaran Impor</s>
+		<s>Kedua peraturan di atas mewajibkan pelaku ekspor SDA yang menerima DHE untuk menempatkan dananya ke rekening khusus reksus paling lambat akhir bulan ketiga setelah bulan pendaftaran pemberitahuan pabean ekspor</s>
+		<s>Para eksportir juga diwajibkan memindahkan escrow account jika terlanjur membuat escrow account di luar negeri dengan tenggat waktu paling lama 90 hari sejak 10 Januari 2019</s>
+		<s>Said menilai kedua peraturan tersebut belum berjalan efektif</s>
+		<s>Dia pun memaparkan tiga hal penting yang perlu dicermati pemerintah</s>
+		<s>Pertama pengaturan terkait DHE SDA tidak cukup hanya dicatatkan</s>
+		<s>Penggunaannya perlu diawasi untuk kebutuhan transaksi perdagangan internasional</s>
+		<s>Apalagi kata dia BI menilai hal itu tidak dikategorikan sebagai dana pihak ketiga DPK yang menjadi acuan penghitung kewajiban bank dalam memenuhi giro wajib minimum GWM dan lainnya</s>
+		<s>Jika pengaturannya hanya seperti ini maka ekonomi dalam negeri tidak mendapatkan manfaat optimal atas penempatan DHE di perbankan nasional selain penerimaan perpajakan atas bunga DHE di reksus ujarnya</s>
+		<s>Said mengimbau BI tidak meletakkan DHE SDA sebagai lahan parkir istimewa yang tidak memberi manfaat banyak bagi keuangan domestik</s>
+		<s>Hal ini dilakukan agar DHE SDA mempunyai manfaat finansial dan tanggung jawab perbankan lebih mengikat</s>
+		<s>Sebaiknya DHE SDA yang berada di reksus dihitung sebagai acuan untuk menilai GWM dan rasio intermediasi prudensial dari bank penerima katanya</s>
+		<s>Kedua pembayaran yang diterima eksportir dalam bentuk DHE seharusnya dicatatkan sebagai pendapatan usaha atau utang usaha jika mendapatkan pinjaman luar negeri oleh perusahaan eksportir</s>
+		<s>Meskipun tidak semua setidaknya ada peluang besar bagi pemerintah dan BI untuk mendorong DHE SDA menjadi alternatif sumber investasi dalam negeri terutama terhadap sektorsektor prioritas yang menjadi perhatian pemerintah terangnya</s>
+		<s>Ia menyebutkan jika pemerintah bisa memberikan penawaran yang menarik khususnya peluang investasi baru yang menjanjikan imbal hasil sesuai pemilik DHE SDA tentunya akan tertarik untuk terlibat dalam penawaran</s>
+		<s>Oleh sebab itu pemerintah sebaiknya membuka menu investasi yang menarik buat mereka seperti halnya pemerintah membuat penawaran pada skema repatriasi modal saat Tax Amnesty beberapa waktu lalu ungkapnya</s>
+		<s>Ketiga pemerintah ke depan juga perlu mengatur lebih lanjut DHE nonSDA seperti halnya pemerintah mengatur DHE SDA</s>
+		<s>Memang benar hasil DHE nonSDA tidak sebesar SDA</s>
+		<s>Ke depan bisa jadi hasil DHE nonSDA ini bisa melampaui DHE dari SDA mengingat tidak semua hasil SDA bisa diperbarui sebutnya</s>
+		<s>Pada tujuh tahun terakhir remitansi tenaga kerja Indonesia TKI per tahun mencapai minimal 869 miliar dollar AS</s>
+		<s>Capaian tertinggi kiriman remitansi TKI pada 2019 yakni mencapai 1144 miliar dollar AS atau lebih dari Rp 160 triliun</s>
+		<s>Devisa yang dihasilkan TKI akan semakin besar sumbangsihnya bila TKI bisa merambah ke sektorsektor yang skillfull dan high tech</s>
+		<s>Sektor ini perlu pikirkan oleh pemerintah ujarnya</s>
+		<s>Said mengatakan banyak devisa dari TKI selama ini tertelan untuk kebutuhan konsumsi</s>
+		<s>Untuk itu pemerintah perlu mengorkestrasi melalui berbagai perkumpulan TKI</s>
+		<s>Perkumpulan tersebut diharapkan masuk melakukan investasi pada sektorsektor produktif yang menjanjikan dengan imbal hasil yang logis legal dan berkelanjutan</s>
+		<s>Langkah ini diharapkan menguntungkan semua pihak</s>
+		<s>Selain TKI dunia digital dan sektor kreatif akan menjadi prospek masa depan devisa Indonesia ungkapnya</s>
+		<s>Menurutnya meski bukan yang terdepan sektor jasa teknologi informasi dalam bentuk web design animasi hingga desain grafis dari Indonesia banyak diminati oleh perusahaanperusahaan internasional</s>
+		<s>Kekayaan kreatif kita juga belum optimal digarap untuk menghasilkan devisa</s>
+		<s>Tumpuan kita selama ini masih pada sektor pariwisata jelasnya</s>
+		<s>Padahal kata Said kekayaan seni arsitektural serta intelektual Indonesia sangat menjanjikan dan berpotensi menghasilkan banyak devisa</s>
+	</doc>
+	<doc id:4 url=https://sorotpolitik.kompas.com/golkar-membangun-indonesia/read/2022/11/14/19314381/golkar-dukung-peran-aktif-indonesia-dalam-kerja-sama-forum-internasional?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Partai Golongan Karya Golkar akan terus merawat menjaga dan berkomitmen untuk mendukung Indonesia dalam berbagai kerja sama forum internasional</s>
+		<s>Dalam tayangan di Channel YouTube G24 yang diunggah Selasa 1112022 Golkar menyebutkan keberadaan forum internasional menjadi bukti bahwa Indonesia telah diakui dan eksis di mata dunia</s>
+		<s>Menurut Golkar kehadiran Indonesia bukan hanya diakui sebagai tuan rumah agenda internasional tetapi juga negara yang mampu memimpin dunia</s>
+		<s>Oleh karenanya Golkar juga akan menjaga eksistensi Indonesia di mata dunia menumbuhkan kepercayaan diri serta rasa bangga dan cinta Tanah Air</s>
+		<s>Selain itu Golkar juga akan mendukung kesepakatankesepakatan yang lahir dari berbagai forum internasional</s>
+		<s>Tak hanya memberikan dukungan Golkar juga berkomitmen ikut serta di dalam pelaksanaan forum agar hubungan kerja sama yang baik antara Indonesia dan negara lain tetap terjaga dan menghasilkan manfaat bagi bangsa Indonesia</s>
+		<s>Komitmen tersebut salah satunya diwujudkan Golkar melalui dukungan Kerja Sama Ekonomi AsiaPasifik APEC untuk menguatkan pertumbuhan ekonomi dan mempererat komunitas di negara kawasan AsiaPasifik</s>
+		<s>Bogor Goals atau disebut juga dengan Deklarasi Bogor tercetus dari pertemuan Asia Pasifik atau APEC yang dilaksanakan di Kota Bogor pada 1994</s>
+		<s>APEC 1994 merupakan pertemuan keenam dan pertama kali dilaksanakan di Indonesia dengan dihadiri oleh 19 negara</s>
+		<s>Melalui Bogor Goals para pemimpin dari negaranegara yang hadir menyepakati pembangunan perdagangan bebas kebebasan berinvestasi dan keterbukaan antarnegara</s>
+		<s>Bogor Goals hingga 2022 telah memandu kerja sama dan memberikan pondasi kuat bagi hubungan negaranegara Asia Pasifik</s>
+		<s>Bahkan sampai saat ini Bogor Goals masih menjadi topik utama karena lewat deklarasi ini kerja sama antarnegara semakin erat</s>
+		<s>Golkar menyatakan bahwa konferensi APEC 1994 akan terus menjadi bagian penting bagi keberlangsungan kerja sama perdagangan bebas dan hubungan tiap negara agar saling menopang semakin kuat dan terus maju</s>
+		<s>Partai Golongan Karya Golkar akan terus merawat menjaga dan berkomitmen untuk mendukung Indonesia dalam berbagai kerja sama forum internasional</s>
+		<s>Dalam tayangan di Channel YouTube G24 yang diunggah Selasa 1112022 Golkar menyebutkan keberadaan forum internasional menjadi bukti bahwa Indonesia telah diakui dan eksis di mata dunia</s>
+		<s>Menurut Golkar kehadiran Indonesia bukan hanya diakui sebagai tuan rumah agenda internasional tetapi juga negara yang mampu memimpin dunia</s>
+		<s>Oleh karenanya Golkar juga akan menjaga eksistensi Indonesia di mata dunia menumbuhkan kepercayaan diri serta rasa bangga dan cinta Tanah Air</s>
+		<s>Selain itu Golkar juga akan mendukung kesepakatankesepakatan yang lahir dari berbagai forum internasional</s>
+		<s>Tak hanya memberikan dukungan Golkar juga berkomitmen ikut serta di dalam pelaksanaan forum agar hubungan kerja sama yang baik antara Indonesia dan negara lain tetap terjaga dan menghasilkan manfaat bagi bangsa Indonesia</s>
+		<s>Komitmen tersebut salah satunya diwujudkan Golkar melalui dukungan Kerja Sama Ekonomi AsiaPasifik APEC untuk menguatkan pertumbuhan ekonomi dan mempererat komunitas di negara kawasan AsiaPasifik</s>
+		<s>Bogor Goals atau disebut juga dengan Deklarasi Bogor tercetus dari pertemuan Asia Pasifik atau APEC yang dilaksanakan di Kota Bogor pada 1994</s>
+		<s>APEC 1994 merupakan pertemuan keenam dan pertama kali dilaksanakan di Indonesia dengan dihadiri oleh 19 negara</s>
+		<s>Melalui Bogor Goals para pemimpin dari negaranegara yang hadir menyepakati pembangunan perdagangan bebas kebebasan berinvestasi dan keterbukaan antarnegara</s>
+		<s>Bogor Goals hingga 2022 telah memandu kerja sama dan memberikan pondasi kuat bagi hubungan negaranegara Asia Pasifik</s>
+		<s>Bahkan sampai saat ini Bogor Goals masih menjadi topik utama karena lewat deklarasi ini kerja sama antarnegara semakin erat</s>
+		<s>Golkar menyatakan bahwa konferensi APEC 1994 akan terus menjadi bagian penting bagi keberlangsungan kerja sama perdagangan bebas dan hubungan tiap negara agar saling menopang semakin kuat dan terus maju</s>
+	</doc>
+	<doc id:5 url=https://sorotpolitik.kompas.com/golkar-membangun-indonesia/read/2022/11/06/19525401/teruskan-perjuangan-hartarto-sastrosoenarto-ketum-golkar-airlangga-dukung?utm_source=Kompas&utm_medium=Media&utm_campaign=Hasilketrampilan>
+		<s>Partai Golongan Karya Golkar terus berupaya mendorong perindustrian dalam negeri untuk siap menuju Indonesia maju dan menghadapi Revolusi Industri 40</s>
+		<s>Adapun perjuangan yang dilakukan oleh Partai Golkar tersebut meneruskan perjuangan menteri Perindustrian Republik Indonesia RI era Kabinet Pembangunan IV periode 19831988 dan Kabinet Pembangunan V periode 19881993 Hartarto Sastrosoenarto</s>
+		<s>Dilansir dari kanal YouTube G24 Channel Minggu 6112022 semasa hidupnya Hartarto mendedikasikan diri untuk mengembangkan perindustrian Indonesia melalui jabatanjabatan penting yang diemban</s>
+		<s>Tokoh kelahiran Surakarta itu juga mendorong didirikannya sejumlah industri di Indonesia di antaranya empat industri petrokimia industri kertas dan industri semen</s>
+		<s>Bahkan industri rancang bangunan rekayasa Indonesia berhasil secara mandiri dan mampu bersaing dengan negara lain berkat tangan dinginnya</s>
+		<s>Atas segala jasanya dalam meningkatkan industri Tanah Air Hartarto mendapat gelar Perekayasa Utama Kehormatan bidang rekayasa industri dari Badan Pengkajian dan Penerapan Teknologi BPPT pada 2014</s>
+		<s>Tak hanya itu ayah dari Ketua Umum Ketum Fraksi Partai Golkar Airlangga Hartarto tersebut dikenal gigih dalam mendorong produk dalam negeri dan memperjuangkan kekayaan alam Indonesia untuk dinikmati sebesarbesarnya bagi kepentingan rakyat</s>
+		<s>Melihat perjuangan dan kegigihan sang Ayah Airlangga pun tak tinggal diam</s>
+		<s>Ia diketahui meneruskan perjuangan sang ayah dalam memajukan perindustrian di tengah revolusi industri</s>
+		<s>Making Indonesia 40 secara konsep adalah konsep perubahan dari segi teknologi dan digital termasuk dalam mempersiapkan sumber daya manusia SDM yang dikenal dengan digital revolusi ungkap Airlangga seperti dikutip dalam kanal YouTube G24 Channel Minggu</s>
+		<s>Dalam mempersiapkan Indonesia menuju Revolusi Industri 40 Airlangga telah banyak memberikan kontribusi untuk kesejahteraan masyarakat Indonesia bersama dengan Partai Golkar</s>
+		<s>Walaupun Bapak Hartarto Sastrosoenarto telah tutup usia pada 2017 kami bersama Partai Golkar akan meneruskan perjuangan jasanya dalam bekerja nyata untuk Indonesia maju agar terus dirasakan manfaatnya oleh masyarakat Indonesia kata Airlangga</s>
+		<s>Partai Golongan Karya Golkar terus berupaya mendorong perindustrian dalam negeri untuk siap menuju Indonesia maju dan menghadapi Revolusi Industri 40</s>
+		<s>Adapun perjuangan yang dilakukan oleh Partai Golkar tersebut meneruskan perjuangan menteri Perindustrian Republik Indonesia RI era Kabinet Pembangunan IV periode 19831988 dan Kabinet Pembangunan V periode 19881993 Hartarto Sastrosoenarto</s>
+		<s>Dilansir dari kanal YouTube G24 Channel Minggu 6112022 semasa hidupnya Hartarto mendedikasikan diri untuk mengembangkan perindustrian Indonesia melalui jabatanjabatan penting yang diemban</s>
+		<s>Tokoh kelahiran Surakarta itu juga mendorong didirikannya sejumlah industri di Indonesia di antaranya empat industri petrokimia industri kertas dan industri semen</s>
+		<s>Bahkan industri rancang bangunan rekayasa Indonesia berhasil secara mandiri dan mampu bersaing dengan negara lain berkat tangan dinginnya</s>
+		<s>Atas segala jasanya dalam meningkatkan industri Tanah Air Hartarto mendapat gelar Perekayasa Utama Kehormatan bidang rekayasa industri dari Badan Pengkajian dan Penerapan Teknologi BPPT pada 2014</s>
+		<s>Tak hanya itu ayah dari Ketua Umum Ketum Fraksi Partai Golkar Airlangga Hartarto tersebut dikenal gigih dalam mendorong produk dalam negeri dan memperjuangkan kekayaan alam Indonesia untuk dinikmati sebesarbesarnya bagi kepentingan rakyat</s>
+		<s>Melihat perjuangan dan kegigihan sang Ayah Airlangga pun tak tinggal diam</s>
+		<s>Ia diketahui meneruskan perjuangan sang ayah dalam memajukan perindustrian di tengah revolusi industri</s>
+		<s>Making Indonesia 40 secara konsep adalah konsep perubahan dari segi teknologi dan digital termasuk dalam mempersiapkan sumber daya manusia SDM yang dikenal dengan digital revolusi ungkap Airlangga seperti dikutip dalam kanal YouTube G24 Channel Minggu</s>
+		<s>Dalam mempersiapkan Indonesia menuju Revolusi Industri 40 Airlangga telah banyak memberikan kontribusi untuk kesejahteraan masyarakat Indonesia bersama dengan Partai Golkar</s>
+		<s>Walaupun Bapak Hartarto Sastrosoenarto telah tutup usia pada 2017 kami bersama Partai Golkar akan meneruskan perjuangan jasanya dalam bekerja nyata untuk Indonesia maju agar terus dirasakan manfaatnya oleh masyarakat Indonesia kata Airlangga</s>
+	</doc>
+</corpus>
