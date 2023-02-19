@@ -111,14 +111,14 @@ def get_bigram_freq(word1, word2, bigram_freq):
     return freq
         
 #calculate probability of bigram
-def calculate_all_probability(word_freq):
+def calculate_all_probability(word_freq, bigram_freq):
     print('Calculating probabilities...')
     for i in word_freq:
         for j in word_freq:
             if i.word!=j.word:
                 f_bigram = get_bigram_freq(i.word, j.word, bigram_freq)
                 
-                prob = (f_bigram / i.freq) + 1 #laplace smoothing
+                prob = (f_bigram / i.freq)
                 # print(prob)
                 i.addProbability(Probability(j,prob))
     
@@ -151,12 +151,12 @@ def get_next_word(sentence, word_freq):
             prob = get_probability(tokens[i-1], tokens[i], word_freq)
          
         totalProb *= prob
-        print(prob)
+        # print(prob)
         i += 1
     
     #calculate probability of possible next word
     nextWord = ""
-    tempProb = 1
+    tempProb = 0
     
     for i in word_freq:
         prob1 = get_probability(tokens[len(tokens)-1], i.word, word_freq)
@@ -167,6 +167,7 @@ def get_next_word(sentence, word_freq):
         print(prob1)
         if tempProb < prob1:
             nextWord = i.word
+            tempProb = prob1
     
     totalProb *= tempProb
     
@@ -190,7 +191,7 @@ for i in arts:
 
 word_freq = get_words_freq(all_words)
 bigram_freq = get_ngrams_freq(bigrams)
-word_freq = calculate_all_probability(word_freq)
+word_freq = calculate_all_probability(word_freq, bigram_freq)
 
 #ask for input, return next word of that sentence
 sentence = input("Enter a sentence: ")
