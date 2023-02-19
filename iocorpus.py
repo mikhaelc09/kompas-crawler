@@ -34,6 +34,6 @@ def read_corpus(filename):
     return articles
             
             
-arts = read_corpus('kompas_180223195900.txt')
-for i in arts:
-    print(i)
+#arts = read_corpus('kompas_190223025615.txt')
+#for i in arts:
+#    print(i)
