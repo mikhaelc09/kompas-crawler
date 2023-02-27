@@ -176,9 +176,9 @@ def get_next_word(sentence, word_freq):
         #     nextWord = i.word
         # print(prob1, prob2)
         # print(prob1)
-        if tempProb < prob1:
+        if tempProb < prob1*totalProb:
             nextWord = i.word
-            tempProb = prob1
+            tempProb = prob1*totalProb
     
     totalProb *= tempProb
     
