@@ -53,6 +53,7 @@ if __name__ == '__main__':
                 for sentence in list_of_sentence:
                     sentence = sentence.replace(u'\xa0','')
                     sentence = sentence.replace(u'\n','')
+                    sentence = sentence.replace('-',' ')
                     sentence = remove_punctuation(sentence)
                     sentence = re.sub(r'[^\w\s]', ' ', sentence)
                     sentence = sentence.replace('  ',' ')
