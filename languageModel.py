@@ -3,7 +3,7 @@ from nltk.tokenize import word_tokenize
 
 # arts = read_corpus('kompas_190223025615.txt')
 arts = read_corpus('temp.txt')
-
+verbose = False
 class Word:
     def __init__(self, word):
         self.word = word
@@ -59,9 +59,6 @@ def get_words_freq(words):
                 word_freq.append(Word(i))
         else:
             word_freq.append(Word(i))
-    
-    # for i in word_freq:
-    #     i.print()
     return word_freq
 
 #get freq of a word
@@ -112,10 +109,18 @@ def get_ngrams_freq(bigrams):
 #get freq of a bigram
 def get_bigram_freq(word1, word2, bigram_freq):
     freq = 1
+    if(verbose):
+        print(f'Bigram Searching for ({word1} -> {word2})')
     for i in bigram_freq:
+        if(verbose):
+            print(f'({i.word1}->{i.word2}) with freq {i.freq}')
         if i.word1==word1 and i.word2==word2:
             freq += i.freq
+            if(verbose):
+                print(f'Found {word1} {word2} with freq {freq}')
             break
+    if(verbose):
+        print('======')
     
     return freq
         
@@ -125,7 +130,11 @@ def calculate_all_probability(word_freq, bigram_freq):
     for i in word_freq:
         for j in word_freq:
             if i.word!=j.word:
+                if(verbose):
+                    print(f"Initializing get_bigram_freq for ({i.word} -> {j.word})")
                 f_bigram = get_bigram_freq(i.word, j.word, bigram_freq)
+                if(verbose):
+                    print("Result  of get_bigram_freq: ", f_bigram)
                 
                 prob = (f_bigram / i.freq)
                 # print(prob)
@@ -148,6 +157,7 @@ def get_probability(word1, word2, word_freq):
 
 #get next word (word with highest probability)
 def get_next_word(sentence, word_freq):
+    
     print('Generating next word...')
     tokens = word_tokenize(sentence)
     i = 0
@@ -182,29 +192,43 @@ def get_next_word(sentence, word_freq):
     
     totalProb *= tempProb
     
+    
     print(f"Next word: {nextWord}")
     print(f"Probability: {totalProb}")
     print(f"Full sentence: {sentence} {nextWord}")
 
+def paginateOutput(data):
+    paginate = True
+    for idx,i in enumerate(data):
+        i.print()
+        if(paginate):
+            if(idx % 5 == 0):
+                opt = input()
+                if(opt == 's'):
+                    paginate = False
 
 #main program
 words = []
 bigrams = []
-for i in arts:
-    for j in i.sentences:
-        words = word_tokenize(j)
-        words.insert(0, "<s>")
-        words.append("</s>")
-        
-        for k in words:
-            all_words.append(k)
+if __name__ == '__main__':
+    for i in arts:
+        for j in i.sentences:
+            words = word_tokenize(j)
+            words.insert(0, "<s>")
+            words.append("</s>")
             
+            for k in words:
+                all_words.append(k)
+                
         bigram = generate_ngram(words, 2)
         bigrams.extend(bigram)
 
-word_freq = get_words_freq(all_words)
-bigram_freq = get_ngrams_freq(bigrams)
-word_freq_prob = calculate_all_probability(word_freq, bigram_freq)
+    word_freq = get_words_freq(all_words)
+    # paginateOutput(word_freq)
+    bigram_freq = get_ngrams_freq(bigrams)
+    # paginateOutput(bigram_freq)
+    word_freq = calculate_all_probability(word_freq, bigram_freq)
+    # paginateOutput(word_freq)
 
 #ask for input, return next word of that sentence
 sentence = input("Enter a sentence: ")
